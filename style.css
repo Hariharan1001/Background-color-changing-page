@@ -1,0 +1,32 @@
+.task {
+    text-align:center;
+    font-style: italic;
+    display:flex;
+    justify-content:center;
+    margin-top:80px;
+}
+
+#bgchangepara {
+    text-align:center;
+    font-style:italic;
+    display:flex;
+    justify-content:center;
+    margin-top:25px;
+}
+
+#bgchangebtn {
+    text-align:center;
+    display:flex;
+    justify-content:center;
+    margin-top:35px;
+}
+
+#colorButton {
+    display:flex;
+    align-items:center;
+    background-color: rgb(123, 99, 146);
+    color:#ffff;
+    padding:10px;
+    border:2px solid;
+    border-radius:10px;
+}
